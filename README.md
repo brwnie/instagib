@@ -1,2 +1,2 @@
-# instagib
-Introduces super shock rifles to Minecraft
+# Instagib
+Introduces super shock crossbow rifles to Minecraft through a Paper Plugin
