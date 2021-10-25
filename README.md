@@ -10,13 +10,13 @@ To use this plugin, drop it into your plugins folder
 
 To craft a super shock crossbow rifle, you need to craft the arrows and the crossbow
 
-### Crafting The arrows
+### Crafting The Arrows
 
 The arrows are the ammunition for the super shock rifle 
 
 ![image](https://user-images.githubusercontent.com/11775356/138728946-65e19715-1021-4738-b8cb-17a25de61e72.png)
 
-### Crafting The crossbow
+### Crafting The Crossbow
 
 The crossbow launches the arrows
 
@@ -24,7 +24,7 @@ The crossbow launches the arrows
 
 ### Crafting The Redemption Helmet
 
-If hit by a super shock crossbow, the helmet will save your bacon once
+If hit by a super shock crossbow, the helmet will save your bacon
 
 ![image](https://user-images.githubusercontent.com/11775356/138729590-03e20edd-fe89-48da-a50a-79ae41950eb5.png)
 
@@ -32,4 +32,4 @@ If hit by a super shock crossbow, the helmet will save your bacon once
 
 ### Use of Instagib Rifle
 
-Grant the permission CFUK.Instagib to allow players to use the Instagib Super Shock Crossbow
+Grant the permission **CFUK.Instagib** to allow players to use the Instagib Super Shock Crossbow
