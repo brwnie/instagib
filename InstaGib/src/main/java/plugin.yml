@@ -1,0 +1,6 @@
+    main: uk.co.crazyfools.instagib.Index
+    name: Instagib
+    version: 1.00
+    api-version: 1.17
+    author: CFUK
+    description: Instagib
